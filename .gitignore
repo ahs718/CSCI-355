@@ -1,0 +1,7 @@
+.DS_Store
+.vscode/
+Slides/
+Textbooks/
+
+**/*.docx
+CSCI\ 355\ Syllabus.pdf
