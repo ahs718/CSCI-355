@@ -123,7 +123,7 @@
         caller: null
         length: 2
         name: "function_01"
-        prototype: Object { … }
+        prototype: Object { ... }
         <prototype>: function ()
     */
     ```
